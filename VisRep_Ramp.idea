@@ -1,4 +1,4 @@
-#create a graphical interface of CandC ramp with designated parking spots for planes
+#create a graphical interface of CandC ramp with designated parking spots for planes, ensure RON spots are added
 #create plane avatars class, created graphics(basic rectangle to start with scaled demensions) for each class (single piston, small jet, etc)
 #drag and drop
 #side bar menu, select menu
