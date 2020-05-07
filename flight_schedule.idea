@@ -1,4 +1,8 @@
-#webscraper for flight aware or other flight tracker, need API
+#webscraper for flight aware or other flight tracker
+#API documentation address, https://flightaware.com/commercial/flightxml/documentation2.rvt
+#best options look like SOAP or json
+
+
 #user input friendly for CSR and Line Tech access
 #live data, to include delays or cancellations
 #ETA, ETD, services, operator, fuel order
