@@ -4,7 +4,7 @@
 
 
 #user input friendly for CSR and Line Tech access
-#live data, to include delays or cancellations
+#live data, to include delays or cancellations, updates and clears after landings
 #ETA, ETD, services, operator, fuel order
 #display from run program on CSR comp or thru local host
-#app format
+#app format?
