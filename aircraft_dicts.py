@@ -64,6 +64,8 @@ large_jet_dict = {
     "Gulfstream": ["G4", "G450", "G5", "G550", "G6", "G650", "G7", "G750"],
     "Bombardier": ["Global Express"],
     "Boeing": ["BBJ", "737"],
+    "Embraer": ["E-175"],
+    "Other": ["Other"],
 }
 
 military_dict = {
@@ -78,4 +80,5 @@ helos_dict = {
     "Bell": ["200 Series", "400 Series"],
     "Robinson": ["R22", "R44", "R66"],
     "Sikorsky": ["S76", "S92"],
+    "Other": ["Other"],
 }
